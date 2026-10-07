@@ -1,0 +1,6 @@
+{
+  "name": "Mini Skylines - 天際微城",
+  "description": "等距視角 2.5D 微型城市建造模擬遊戲，包含 RCI 需求、水電基建、分區規劃與經濟模擬。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
